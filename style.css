@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#box {
+  width: 188px;
+  cursor:text;
+  height: 60px;
+  background-color:rgba(219, 255, 236, 0.621);
+}
+#equal {
+  width: 197px;
+}
+form {
+  background-color: lightblue;
+  align-items: center;
+  margin: 10px auto;
+  border: 2px solid;
+  padding: 10px;
+  border-radius: 13px;
+  width: 206px;
+}
+input {
+  text-align: center;
+  margin: 5px;
+  align-items: center;
+  width: 56px;
+  height: 40px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: #e5f2ff;
+}
+#brand {
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 3px;
+}
